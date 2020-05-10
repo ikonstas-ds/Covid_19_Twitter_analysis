@@ -1,5 +1,5 @@
 # Covid_19_Twitter_analysis
-Exploratory analysis and visualisation of tweets and Covid-19 related data. An [interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWI2YWI0YzItYzljYS00ZjA2LWE0NzctNzlhYzZmY2Q2ZWEzIiwidCI6IjBkZmQwNWIzLTdlYjEtNDAyZi1iYzM4LWJkZDU2NmQ3OGExMSIsImMiOjh9) is provided with insights about the socio-political and socio-economical impacts of Covid-19 and indications of various correlations between social media data and other Covid-19 related data. Submitted at [#EUvsVirus](https://www.euvsvirus.org/) Pan-European Hackathon
+Exploratory analysis and visualisation of tweets and Covid-19 related data. An [interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWI2YWI0YzItYzljYS00ZjA2LWE0NzctNzlhYzZmY2Q2ZWEzIiwidCI6IjBkZmQwNWIzLTdlYjEtNDAyZi1iYzM4LWJkZDU2NmQ3OGExMSIsImMiOjh9) is provided with insights about the socio-political and socio-economical impacts of Covid-19 and indications of various correlations between social media data and other Covid-19 related data. Submitted at [#EUvsVirus](https://www.euvsvirus.org/) Pan-European Hackathon.
 
 
 # Process
